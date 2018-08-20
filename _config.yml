@@ -83,8 +83,6 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 鑫哥的博客
-    url: http://anotom.com/
   - title: 乐哥的博客
     url: https://www.caylor.cc/
   - title: 小美的博客
