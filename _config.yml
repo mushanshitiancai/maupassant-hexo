@@ -83,16 +83,16 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
+  - title: 小杭的博客
+    url: http://blog.csdn.net/xiaohangblog?viewmode=contents)
   - title: 乐哥的博客
     url: https://www.caylor.cc/
+  - title: 夏侯的博客
+    url: http://bettercuicui.github.io/
   - title: 小美的博客
     url: http://zach41.github.io/
   - title: 瀚文的博客
     url: http://blog.csdn.net/sinat_25127047
-  - title: 小杭的博客
-    url: http://blog.csdn.net/xiaohangblog?viewmode=contents)
-  - title: 夏侯的博客
-    url: http://bettercuicui.github.io/
   - title: 符尧的博客
     url: http://damye.github.io/
   - title: 尚弟的博客
@@ -101,6 +101,8 @@ links:
     url: http://imethan.cn
   - title: 德阳的博客
     url: https://blog.csdn.net/mjyywd
+  - title: molaga的博客
+    url: http://www.molaga.cc/
 
 timeline:
   - num: 1
